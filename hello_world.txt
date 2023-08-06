@@ -1,0 +1,3 @@
+Hello world. 
+I am learning to use git commands.
+It's an amazing experience to learn new things.
